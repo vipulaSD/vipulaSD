@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @vipulaSD
 - 👀 I’m interested in software engineering aspects of Machine Learning
-- 🌱 I’m currently learning about NLP in healthcare domain
+- 🌱 In my day job im working on NLP in healthcare domain
 - 📫 How to reach me drop me an email (vipula803@gmail.com)
 
 ![github](https://github.com/vipulaSD/vipulaSD/blob/output/github-contribution-grid-snake.svg)
